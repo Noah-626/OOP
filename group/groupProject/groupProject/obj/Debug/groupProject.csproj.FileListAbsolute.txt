@@ -1,0 +1,8 @@
+C:\COMP2129\group\groupProject\groupProject\obj\Debug\groupProject.csproj.AssemblyReference.cache
+C:\COMP2129\group\groupProject\groupProject\obj\Debug\groupProject.csproj.SuggestedBindingRedirects.cache
+C:\COMP2129\group\groupProject\groupProject\obj\Debug\groupProject.csproj.CoreCompileInputs.cache
+C:\COMP2129\group\groupProject\groupProject\bin\Debug\groupProject.exe.config
+C:\COMP2129\group\groupProject\groupProject\bin\Debug\groupProject.exe
+C:\COMP2129\group\groupProject\groupProject\bin\Debug\groupProject.pdb
+C:\COMP2129\group\groupProject\groupProject\obj\Debug\groupProject.exe
+C:\COMP2129\group\groupProject\groupProject\obj\Debug\groupProject.pdb
